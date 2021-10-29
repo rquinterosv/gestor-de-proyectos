@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  comentario: MyString
+  inicio: MyString
+  fin: MyString
+  estado: MyString
+
+two:
+  nombre: MyString
+  comentario: MyString
+  inicio: MyString
+  fin: MyString
+  estado: MyString
